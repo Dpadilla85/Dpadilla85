@@ -12,6 +12,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+## 🖥️ Help Desk & Active Directory Lab
+
+- **[Help Desk Ticketing System + Active Directory Lab](https://github.com/Dpadilla85/Ticketing-system-and-Active-directory-lab)**
 <hr/>
 
 ## 🤳 Connect With Me
