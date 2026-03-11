@@ -16,8 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Help Desk Ticketing System + Active Directory Lab](https://github.com/Dpadilla85/Ticketing-system-and-Active-directory-lab)**
 <hr/>
-
-**[Revoking Access and Disabling Permissions in Microsoft Entra ID](https://github.com/Dpadilla85/Revoking-access-and-Disabling-permissions-in-Entra-ID)**
+- **[Revoking Access and Disabling Permissions in Microsoft Entra ID](https://github.com/Dpadilla85/Revoking-access-and-Disabling-permissions-in-Entra-ID)**
 <hr/>
 
 ## 🤳 Connect With Me
