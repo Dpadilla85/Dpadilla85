@@ -12,12 +12,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-## 🖥️ Entra ID & Active Directory Labs and projects
+## 🖥️ Entra ID & Active Directory Labs and Projects
 
 - **[Help Desk Ticketing System + Active Directory Lab](https://github.com/Dpadilla85/Ticketing-system-and-Active-directory-lab)**
-<hr/>
-- **[Revoking Access and Disabling Permissions in Microsoft Entra ID](https://github.com/Dpadilla85/Revoking-access-and-Disabling-permissions-in-Entra-ID)**
-<hr/>
+
+- **[Revoking Access and Disabling Permissions in Microsoft Entra ID (IAM Security Lab)](https://github.com/Dpadilla85/Revoking-access-and-Disabling-permissions-in-Entra-ID)**
 
 ## 🤳 Connect With Me
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
