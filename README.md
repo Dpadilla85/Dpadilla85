@@ -7,11 +7,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/Dpadilla85/Vulnerability-Management-Program/tree/main)**
 
-## 🖥️ Entra ID & Active Directory Labs and Projects
+## 🖥️ IAM & Active Directory Labs and Projects
 
 - **[Help Desk Ticketing System + Active Directory Lab](https://github.com/Dpadilla85/Ticketing-system-and-Active-directory-lab)**
 
 - **[Revoking Access and Disabling Permissions in Microsoft Entra ID (IAM Security Lab)](https://github.com/Dpadilla85/Revoking-access-and-Disabling-permissions-in-Entra-ID)**
+
+- **[AWS IAM Security Lab (Identity and Access Management Lab)](https://github.com/Dpadilla85/AWS-IAM-Lab)**
 
 ## 🤳 Connect With Me
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
