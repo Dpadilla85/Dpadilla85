@@ -16,6 +16,6 @@ I’m a Identity & Access Management (IAM) Analyst with 3+ years of experience s
 
 
 ## 🤳 Connect With Me
-[<img align="left" alt="David P | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/david-p-172823149/)
 
 
