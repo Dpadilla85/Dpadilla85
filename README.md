@@ -8,7 +8,7 @@ I’m a Identity & Access Management (IAM) Analyst with 3+ years of experience s
 
 - **[Microsoft Entra ID Access Control & Remediation Lab (IAM Security Lab)](https://github.com/Dpadilla85/Revoking-access-and-Disabling-permissions-in-Entra-ID)**
 
-- **[AWS IAM Security Lab (Identity and Access Management Lab)](https://github.com/Dpadilla85/AWS-IAM-Lab)**
+- **[AWS IAM Security Engineering Lab)](https://github.com/Dpadilla85/AWS-IAM-Lab)**
 
 ## ⚠️ Vulnerability Management Projects
 
