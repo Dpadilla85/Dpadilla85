@@ -2,11 +2,11 @@
 
 I’m a Identity & Access Management (IAM) Analyst with 3+ years of experience securing access across AWS, Azure/Entra ID, Active Directory, and Okta environments. I specialize in identity lifecycle management, access governance, and implementing least-privilege controls to reduce risk in cloud and enterprise systems.
 
-## 🖥️ IAM & Active Directory Labs and Projects
+## 🖥️ Identity Security Engineering Projects
 
-- **[Help Desk Ticketing System + Active Directory Lab](https://github.com/Dpadilla85/Ticketing-system-and-Active-directory-lab)**
+- **[Active Directory & Help Desk IAM Environment](https://github.com/Dpadilla85/Ticketing-system-and-Active-directory-lab)**
 
-- **[Revoking Access and Disabling Permissions in Microsoft Entra ID (IAM Security Lab)](https://github.com/Dpadilla85/Revoking-access-and-Disabling-permissions-in-Entra-ID)**
+- **[Microsoft Entra ID Access Control & Remediation Lab (IAM Security Lab)](https://github.com/Dpadilla85/Revoking-access-and-Disabling-permissions-in-Entra-ID)**
 
 - **[AWS IAM Security Lab (Identity and Access Management Lab)](https://github.com/Dpadilla85/AWS-IAM-Lab)**
 
