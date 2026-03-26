@@ -8,6 +8,8 @@ I’m a Identity & Access Management (IAM) Analyst with 3+ years of experience s
 
 - **[Microsoft Entra ID Access Control & Remediation Lab (IAM Security Lab)](https://github.com/Dpadilla85/Revoking-access-and-Disabling-permissions-in-Entra-ID)**
 
+- *[Okta IAM Security Engineering Lab](https://github.com/YOUR-USERNAME/okta-iam-lab)*
+
 - **[AWS IAM Security Engineering Lab](https://github.com/Dpadilla85/AWS-IAM-Lab)**
 
 ## ⚠️ Vulnerability Management Projects
@@ -15,7 +17,5 @@ I’m a Identity & Access Management (IAM) Analyst with 3+ years of experience s
 - **[Vulnerability Management Program Implementation](https://github.com/Dpadilla85/Vulnerability-Management-Program/tree/main)**
 
 
-## 🤳 Connect With Me
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/david-p-172823149/)
 
 
