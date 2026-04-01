@@ -1,6 +1,7 @@
 # <a href="https://www.linkedin.com/in/david-p-172823149/">David Padilla</a>'s IAM and Cybersecurity Project Portfolio 🔐
 
-I’m a Identity & Access Management (IAM) Analyst with 3+ years of experience securing access across AWS, Azure/Entra ID, Active Directory, and Okta environments. I specialize in identity lifecycle management, access governance, and implementing least-privilege controls to reduce risk in cloud and enterprise systems.
+Identity & Access Management (IAM) professional with 3+ years of experience supporting identity lifecycle management, access governance, and security controls across Okta, Azure AD (Entra ID), AWS, and Active Directory environments. Skilled in implementing SSO, MFA, conditional access, and least-privilege models to enhance security and compliance.
+Experience includes identifying and remediating access risks, supporting audit and compliance initiatives, and automating IAM processes using Python and SQL. Strong understanding of security frameworks including SOC 2, NIST 800-53, and HIPAA.
 
 ## 🖥️ Identity Security Engineering Projects
 
