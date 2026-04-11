@@ -1,7 +1,10 @@
 # <a href="https://www.linkedin.com/in/david-p-172823149/">David Padilla</a>'s IAM and Cybersecurity Project Portfolio 🔐
 
-Identity & Access Management (IAM) professional with 3+ years of experience supporting identity lifecycle management, access governance, and security controls across Okta, Azure AD (Entra ID), AWS, and Active Directory environments. Skilled in implementing SSO, MFA, conditional access, and least-privilege models to enhance security and compliance.
-Experience includes identifying and remediating access risks, supporting audit and compliance initiatives, and automating IAM processes using Python and SQL. Strong understanding of security frameworks including SOC 2, NIST 800-53, and HIPAA.
+I’m an technical support engineer with 4+ years of experience providing Tier 1–2 support in fast-paced enterprise environments, with a strong focus on troubleshooting, user support, and access management.
+
+I’ve supported high-volume ticket queues, resolving hardware, software, networking, and account-related issues while working with tools like Active Directory, ServiceNow, and remote support technologies. My approach centers on breaking down complex problems, identifying root causes, and delivering clear, efficient solutions to end users.
+
+In addition to my support background, I’ve been expanding into Identity and Access Management (IAM) by building hands-on lab environments using Okta and Microsoft Entra ID. I’ve implemented and troubleshot SSO (SAML/OIDC), MFA, and conditional access policies, strengthening my understanding of authentication and access security.
 
 ## 🖥️ Identity Security Engineering Projects
 
