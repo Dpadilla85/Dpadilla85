@@ -6,7 +6,7 @@ I’ve supported high-volume ticket queues, resolving hardware, software, networ
 
 In addition to my support background, I’ve been expanding into Identity and Access Management (IAM) by building hands-on lab environments using Okta and Microsoft Entra ID. I’ve implemented and troubleshot SSO (SAML/OIDC), MFA, and conditional access policies, strengthening my understanding of authentication and access security.
 
-## 🖥️ Identity Security Engineering Projects
+## 🔐 Identity Security Engineering Projects
 
 - **[Active Directory & Help Desk IAM Environment](https://github.com/Dpadilla85/Ticketing-system-and-Active-directory-lab)**
 
@@ -19,6 +19,10 @@ In addition to my support background, I’ve been expanding into Identity and Ac
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Dpadilla85/Vulnerability-Management-Program/tree/main)**
+
+## 🖥️ IT Help Desk & Support Simulation
+
+- **[Help Desk Home Lab Simulation](https://github.com/Dpadilla85/HelpDesk-Home-Labs)**
 
 
 
