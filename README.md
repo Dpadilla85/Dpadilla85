@@ -1,12 +1,26 @@
 # <a href="https://www.linkedin.com/in/david-p-172823149/">David Padilla</a>'s IAM and Cybersecurity Project Portfolio 🔐
+I’m a Security-Focused IT Support Engineer with 4+ years of experience in enterprise environments, specializing in identity and access management (IAM), authentication systems, and security-focused troubleshooting.
 
-I’m a Technical Support Engineer with 4+ years of experience providing Tier 1–2 support in fast-paced enterprise environments, with a strong focus on troubleshooting, user support, and access management.
+In my recent role at Amazon, I supported high-volume authentication and access-related issues, including SSO, MFA, and system connectivity, while contributing to vulnerability remediation efforts through patching, system hardening, and root cause analysis. This experience strengthened my ability to diagnose complex issues across identity, networking, and cloud environments.
 
-I’ve supported high-volume ticket queues, resolving hardware, software, networking, and account-related issues while working with tools like Active Directory, ServiceNow, and remote support technologies. My approach centers on breaking down complex problems, identifying root causes, and delivering clear, efficient solutions to end users.
+To deepen my security skillset, I’ve built hands-on IAM and Zero Trust lab environments using Okta and Microsoft Entra ID. In these labs, I’ve:
 
-In addition to my support background, I’ve been expanding into Identity and Access Management (IAM) by building hands-on lab environments using Okta and Microsoft Entra ID. I’ve implemented and troubleshot SSO (SAML/OIDC), MFA, and conditional access policies, strengthening my understanding of authentication and access security.
+Configured SSO integrations using SAML and OIDC
+Implemented MFA and conditional access policies
+Designed RBAC models and automated user lifecycle workflows
+Simulated identity-based attack scenarios and performed remediation
 
-I also have hands-on experience with vulnerability management concepts, including identifying, prioritizing, and remediating system vulnerabilities within enterprise environments. This includes working with vulnerability scanning tools, analyzing findings, and applying remediation strategies to improve system security posture.
+I’m also active in cybersecurity labs and simulations inspired by Josh Madakor’s cyber range, where I practice incident investigation, log analysis, and response to real-world attack scenarios.
+
+Core strengths include:
+• Identity & Access Management (Okta, Entra ID, SSO, MFA)
+• Security Operations & Incident Troubleshooting
+• Active Directory & Access Provisioning
+• Vulnerability Remediation & System Hardening
+• Networking Fundamentals (DNS, DHCP, TCP/IP)
+• Cloud Platforms (AWS, Azure)
+
+I’m currently seeking IAM, Security Analyst, or Security-focused IT roles where I can contribute immediately and continue building expertise in identity security and cybersecurity operations.
 
 ## 🔐 Identity Security Engineering Projects
 
