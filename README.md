@@ -36,6 +36,8 @@ I’m currently seeking IAM, Security Analyst, or Security-focused IT roles wher
 
 - **[Vulnerability Management Program Implementation](https://github.com/Dpadilla85/Vulnerability-Management-Program/tree/main)**
 
+- **[Authenticated vs Unauthenticated Tenable Scans](https://github.com/Dpadilla85/Athenticated-vs-Unauthenticated-Tenable-scans)**
+
 ## 🖥️ IT Help Desk & Support Simulation
 
 - **[Help Desk Home Lab Simulation](https://github.com/Dpadilla85/HelpDesk-Home-Labs)**
