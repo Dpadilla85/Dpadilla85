@@ -38,7 +38,7 @@ I’m currently seeking IAM, Security Analyst, or Security-focused IT roles wher
 
 - **[Authenticated vs Unauthenticated Tenable Scans](https://github.com/Dpadilla85/Athenticated-vs-Unauthenticated-Tenable-scans)**
 
-- ## 🛡️ Threat Detection & Response (live traffic)
+## 🛡️ Threat Detection & Response (live traffic)
 
 - **[Building & Monitoring a SOC + Honeynet in Azure (Live Traffic)](https://github.com/Dpadilla85/Building&Monitoring-a-SOC-Honeynet-in-Azure-Live-Traffic)**
 
