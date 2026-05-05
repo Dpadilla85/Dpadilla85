@@ -1,5 +1,5 @@
 # <a href="https://www.linkedin.com/in/david-p-172823149/">David Padilla</a>'s IAM and Cybersecurity Project Portfolio 🔐
-I’m a Security-Focused IT Support Engineer with 4+ years of experience in enterprise environments, specializing in identity and access management (IAM), authentication systems, and security-focused troubleshooting.
+I’m a Information Security Analyst with 4+ years of experience in enterprise environments, specializing in identity and access management (IAM), authentication systems, and security-focused troubleshooting.
 
 In my recent role at Amazon, I supported high-volume authentication and access-related issues, including SSO, MFA, and system connectivity, while contributing to vulnerability remediation efforts through patching, system hardening, and root cause analysis. This experience strengthened my ability to diagnose complex issues across identity, networking, and cloud environments.
 
