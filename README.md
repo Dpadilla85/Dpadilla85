@@ -43,8 +43,12 @@ I’m currently seeking IAM, Security Analyst, or Security-focused IT roles wher
 ## 🛡️ Threat Detection & Response (live traffic)
 
 - **[Building & Monitoring a SOC + Honeynet in Azure (Live Traffic)](https://github.com/Dpadilla85/Building&Monitoring-a-SOC-Honeynet-in-Azure-Live-Traffic)**
+
 - **[Sudden Network Slowdown Detection & Troubleshooting Lab (Network Performance Investigation)](https://github.com/Dpadilla85/Sudden-Network-Slowdown)**
+
 - **[Virtual Machine Brute Force Detection & Incident Response Lab](https://github.com/Dpadilla85/Virtual-Machine-Brute-Force-Detection-)**
+
+- **[Alert Rule for Suspicious Web Request PowerShell](https://github.com/Dpadilla85/Alert-Rule-for-Suspicious-Web-Request-Powershell-)**
 
 ## 🖥️ IT Help Desk & Support Simulation
 
