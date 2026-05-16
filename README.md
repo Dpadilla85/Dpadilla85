@@ -50,6 +50,8 @@ I’m currently seeking IAM, Security Analyst, or Security-focused IT roles wher
 
 - **[Alert Rule for Suspicious Web Request PowerShell](https://github.com/Dpadilla85/Alert-Rule-for-Suspicious-Web-Request-Powershell-)**
 
+- **[Potential Impossible Travel Alert Rule](https://github.com/Dpadilla85/Potential-Impossible-Travel-Alert-Rule-)**
+
 ## 🖥️ IT Help Desk & Support Simulation
 
 - **[Help Desk Home Lab Simulation](https://github.com/Dpadilla85/HelpDesk-Home-Labs)**
