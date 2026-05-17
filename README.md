@@ -48,6 +48,8 @@ I’m passionate about continuous learning, hands-on security engineering, and b
 
 - **[Potential Impossible Travel Alert Rule](https://github.com/Dpadilla85/Potential-Impossible-Travel-Alert-Rule-)**
 
+- **[Data Exfiltration in Azure](https://github.com/Dpadilla85/Data-Exfiltration-in-Azure)**
+
 ## 🖥️ IT Help Desk & Support Simulation
 
 - **[Help Desk Home Lab Simulation](https://github.com/Dpadilla85/HelpDesk-Home-Labs)**
