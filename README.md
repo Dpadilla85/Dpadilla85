@@ -50,6 +50,8 @@ I’m passionate about continuous learning, hands-on security engineering, and b
 
 - **[Data Exfiltration in Azure](https://github.com/Dpadilla85/Data-Exfiltration-in-Azure)**
 
+- **[Threat Hunting Scenario – TOR Network Detection](https://github.com/Dpadilla85/threat-hunting-scenario-tor)**
+
 ## 🖥️ IT Help Desk & Support Simulation
 
 - **[Help Desk Home Lab Simulation](https://github.com/Dpadilla85/HelpDesk-Home-Labs)**
