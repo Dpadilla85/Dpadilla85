@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/david-p-172823149/">David Padilla</a>'s Cybersecurity Analyst Project Portfolio 🔐
 I’m an Information Security Analyst with 4+ years of experience supporting enterprise environments across security operations, identity and access management (IAM), vulnerability management, and cloud security.
 
-In my current role at Mindful Support Services, I work with CrowdStrike Falcon and Wiz to monitor security events, investigate threats, support vulnerability remediation efforts, and strengthen endpoint and cloud security posture across enterprise environments.
+In my current role at Mindful Support Services, I work with CrowdStrike Falcon, Defender for cloud, Entra ID and Wiz to monitor security events, investigate threats, support vulnerability remediation efforts, and strengthen endpoint and cloud security posture across enterprise environments.
 
 Previously, I supported Amazon’s Defense Security team, where I worked on vulnerability management, log analysis, authentication troubleshooting, and enterprise security operations. My experience included investigating access-related issues involving SSO, MFA, networking, and cloud-connected systems while collaborating with engineering and operations teams to support remediation efforts and improve system security.
 
