@@ -1,23 +1,22 @@
 # <a href="https://www.linkedin.com/in/david-p-172823149/">David Padilla</a>'s Cloud Security Analyst Project Portfolio 🔐
-Cloud Security Analyst with 4+ years of experience supporting enterprise environments across security operations, identity and access management (IAM), vulnerability management, and cloud security.
+Cloud Security Analyst | GRC & Identity Governance
 
-In my current role at Mindful Support Services, I work with CrowdStrike Falcon, Defender for cloud, Entra ID and Wiz to monitor security events, investigate threats, support vulnerability remediation efforts, and strengthen endpoint and cloud security posture across enterprise environments.
+Cloud Security Analyst with 4+ years securing enterprise environments across security operations, identity and access management, vulnerability management, and cloud governance for AWS and Azure.
 
-Previously, I supported Amazon’s Defense Security team, where I worked on vulnerability management, log analysis, authentication troubleshooting, and enterprise security operations. My experience included investigating access-related issues involving SSO, MFA, networking, and cloud-connected systems while collaborating with engineering and operations teams to support remediation efforts and improve system security.
+At Mindful Support Services, I run the vulnerability risk management program end-to-end — asset discovery, remediation tracking, and executive risk reporting — and led an initiative that remediated 7,100+ vulnerabilities across 15 VMs. I also manage identity and access governance for 3,800+ user accounts, led an Okta SSO migration covering 3,000+ providers, and use CrowdStrike Falcon, Microsoft Defender for Cloud, Entra ID, and Wiz to monitor, investigate, and harden endpoint and cloud security posture.
 
-My areas of focus include:
+Previously, I supported Amazon's Defense Security team on vulnerability management, log analysis, and authentication troubleshooting — investigating SSO, MFA, and network access issues across cloud-connected systems and partnering with engineering teams on remediation.
+
+Focus areas:
 
 Security Operations & Threat Detection
-Identity & Access Management (IAM)
-Vulnerability Management
-Incident Response
-Endpoint & Cloud Security
-Active Directory, Okta, and Microsoft Entra ID
+Identity & Access Management (Active Directory, Okta, Microsoft Entra ID)
+Vulnerability Management & Risk Reporting
+Incident Response & Root Cause Analysis
+Cloud Security (AWS, Azure) & Endpoint Protection
 SIEM Monitoring & Alert Triage
-AWS & Azure Cloud Platforms
 
-I’m passionate about continuous learning, hands-on security engineering, and building practical cybersecurity skills aligned with real-world enterprise environments.
-
+I'm continually building hands-on security engineering skills — see my projects below — grounded in how enterprise security programs actually run.
 ## 🔐 Identity Security Engineering Projects
 
 - **[Active Directory & Help Desk IAM Environment](https://github.com/Dpadilla85/Ticketing-system-and-Active-directory-lab)**
